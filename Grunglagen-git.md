@@ -6,3 +6,4 @@
 * git push
 * git pull
 - test
++ und arbeiten mit dem branch test
