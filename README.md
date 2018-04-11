@@ -3,6 +3,6 @@
 ### 11.4.2018, SPL
 
 # Inhalte
-*Grundlagen GIT
-*Installation VM
-*Einruchtung GIT
+* Grundlagen GIT
+* Installation VM
+* Einruchtung GIT
