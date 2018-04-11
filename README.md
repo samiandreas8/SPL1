@@ -6,3 +6,10 @@
 * Grundlagen GIT
 * Installation VM
 * Einruchtung GIT
+
+# Erledigt am 11.04.2018
+- Installation VM
+- Intallation Commander
+- Installation Firefox
+- Installation 7Zip
+- Installation Python
